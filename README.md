@@ -110,6 +110,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [Veyon](https://veyon.io/) - classroom monitor
   - [HPI-Schulcloud](https://github.com/hpi-schul-cloud) - Technical basis for teachers and pupils to be able to use modern digital teaching and learning content via any device in any subject without any special prior technical knowledge. 
 - **Other**
+ - [Vates VMS](https://vates.tech/) - A complete, fully open-source virtualization stack combining the XCP-ng hypervisor and Xen Orchestra management engine, perfect for hosting school backend applications, virtual labs, and automated student backups.
   - [linuxmuster.net](https://www.linuxmuster.net/) - free all-in-one school server solution (user- and device management)
   - [Koha ILS](https://koha-community.org/) - Open Source Integrated Library System
   - [Moodle](https://moodle.org/) - learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments
